@@ -1,1 +1,0 @@
-# 4-days-Online-Workshop-on-How-to-develop-Pythonic-coding--Logic-Perspective
